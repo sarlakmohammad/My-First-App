@@ -1,5 +1,6 @@
 ## Description 
-# pay atttention! ,this app is a BETA vesion.
+    !pay atttention!
+this app is a BETA vesion
 
 *a few important points*:
   1.play selected music by pressing (ENTER) key. (you can't play it by just clicking on it)
