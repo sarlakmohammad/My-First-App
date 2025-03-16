@@ -1,3 +1,5 @@
+#Copyright (c) 2025 @sarlakmohammad
+    #All rights reserved
 from time import *
 import mutagen
 from customtkinter import *
